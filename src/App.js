@@ -29,7 +29,7 @@ function App(){
       
 
       <h1>Hello React</h1>
-      <Tweet name="Dev ED" message="This is a random tweet"/>
+      <Tweet name="Dev" message="This is a random tweet"/>
       {users.map(user => (
         <Tweet name={user.name} message={user.message} />
         ))}
