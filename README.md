@@ -9,5 +9,7 @@
   2) each time a user clicks on the button, the counter will increase by 1
   3) for all elements inside a database, it can automatically create a "tweet" showing the name, tweet and the number of likes
   
+By writing this all using React, the final result should show as 100% HTML 
+
 #### Deployed on: https://mabelene.github.io/react-twitter/
 
