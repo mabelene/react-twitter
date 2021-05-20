@@ -1,5 +1,5 @@
 # react-twitter
-### This project was made to:
+### This project was made to: 
   1) familiarize myself with React and play around
   2) learn how to deploy React onto Github Pages
   3) learn how to use Git in the terminal
